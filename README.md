@@ -2,9 +2,9 @@
 # <center>刘浩的简历</center>
 <br />
 
-| 姓名 | 年 龄 |职责|工作年限|Mobile|Mail|GitHub
-|----------|----------|----------|----------|----------|----------|----------|
-|  刘浩 | 25|iOS工程师| 3年|17704051924|<a href = "v2top1@163.com">v2top1@163.com</a>|<a href = "https://github.com/lyleLH">https://github.com/lyleLH</a>
+| 姓名 | 年 龄 |职责|工作年限|Mobile|Mail|GitHub|Blog
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|  刘浩 | 25|iOS工程师| 3年|17704051924|<a href = "v2top1@163.com">v2top1@163.com</a>|<a href = "https://github.com/lyleLH">https://github.com/lyleLH</a>|<a href = "www.lylefod.com">www.lylefod.com</a>
 
 ##个人能力
 
@@ -144,7 +144,7 @@
 <li >MarkDown和HTML标记语言的个人简历<a href = "https://github.com/lyleLH/AboutMe">https://github.com/lyleLH/AboutMe</a >
 ## 个人博客
 
-<li ><b><a href = "http://www.cnblogs.com/lyleLH">http://www.cnblogs.com/lyleLH</a>
+<li ><b><a href = "http://www.cnblogs.com/lyleLH">(旧)http://www.cnblogs.com/lyleLH</a>
 <br />
 <br />
 <br />
