@@ -1,11 +1,11 @@
 
 #刘浩 
 
-- 期望职位：iOS 工程师 (深圳)
+- 期望职位: iOS 工程师 (深圳)
 - 1992年/3年工作经验（近2年半从事 iOS 开发）
-- 手机/微信：17704051924/lyle92
-- 邮箱：v2top1lyle@gmail.com / v2top1@163.com
-
+- 手机/微信:17704051924/lyle92
+- 邮箱:v2top1lyle@gmail.com / v2top1@163.com
+- Github: https://github.com/lyleLH
 
 技能清单
 
