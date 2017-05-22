@@ -1,7 +1,7 @@
 
 # 刘浩
 - 职位 : iOS 工程师 (深圳) 
-- 年限 : 3年 | 1992年| 近3年半从事 iOS 开发
+- 年限 : 3年 | 1992年| 近3年从事 iOS 开发
 - 联系方式 : 手机 17704051924 | 微信 lyle92 | 邮箱 v2top1@163.com
 - 博客 : http://www.jianshu.com/u/ee182a726758
 - GitHub : https://github.com/lyleLH 
